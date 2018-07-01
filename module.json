@@ -1,0 +1,16 @@
+{
+    "name": "CustomFields",
+    "alias": "customfields",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CustomFields\\Providers\\CustomFieldsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
